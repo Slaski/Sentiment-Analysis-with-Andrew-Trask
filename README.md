@@ -9,7 +9,7 @@ in the Deep Learning Nanodegree Foundation from Udacity.
 The course is separated in 6 mini projects:
 
 - Mini Project 1 - Correlate the words to labels
-- Mini Project 2
+- Mini Project 2 - Creating the input/output data
 - Mini Project 3
 - Mini Project 4
 - Mini Project 5
