@@ -6,13 +6,14 @@ in the Deep Learning Nanodegree Foundation from Udacity.
 
 ## Contents
 
-The course is separated in 5 mini projects:
+The course is separated in 6 mini projects:
 
-- Mini Project 1
+- Mini Project 1 - Correlate the words to labels
 - Mini Project 2
 - Mini Project 3
 - Mini Project 4
 - Mini Project 5
+- Mini Project 6
 
 ## Methods and Frameworks utilized
 
