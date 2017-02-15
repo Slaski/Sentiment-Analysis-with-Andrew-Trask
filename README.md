@@ -13,7 +13,7 @@ The course is separated in 6 mini projects:
 - Mini Project 3 - Building the neural network
 - Mini Project 4 - Reducing the noise in the input data
 - Mini Project 5 - Improving the efficiency of the network
-- Mini Project 6
+- Mini Project 6 - Further noise reduction
 
 ## Methods and Frameworks utilized
 
@@ -21,7 +21,6 @@ The course is separated in 6 mini projects:
 - **Pandas** - an ease-to-use python library for manipulating data structures and performing data analysis
 - **Jupyter Notebook** - tool that allow the creation of documents with live code
 - **Bag of Words & Word2vec** - methods for transforming text into vectors in order to be used as input in the network
-- **TFLearn** - a python library for quickly building neural networks
 
 ## Installation
 
