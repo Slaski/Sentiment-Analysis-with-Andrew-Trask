@@ -12,7 +12,7 @@ The course is separated in 6 mini projects:
 - Mini Project 2 - Creating the input/output data
 - Mini Project 3 - Building the neural network
 - Mini Project 4 - Reducing the noise in the input data
-- Mini Project 5
+- Mini Project 5 - Improving the efficiency of the network
 - Mini Project 6
 
 ## Methods and Frameworks utilized
