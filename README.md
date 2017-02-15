@@ -11,7 +11,7 @@ The course is separated in 6 mini projects:
 - Mini Project 1 - Correlate the words to labels
 - Mini Project 2 - Creating the input/output data
 - Mini Project 3 - Building the neural network
-- Mini Project 4
+- Mini Project 4 - Reducing the noise in the input data
 - Mini Project 5
 - Mini Project 6
 
