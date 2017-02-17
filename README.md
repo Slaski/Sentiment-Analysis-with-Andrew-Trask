@@ -1,4 +1,6 @@
-# Deep Learning Nanodegree Foundation - Sentiment Analisys with Andrew Trask
+# Deep Learning Nanodegree Foundation
+
+## Sentiment Analysis with Andrew Trask
 
 This is a project from a course on how to build a neural network to predict sentiment, positive or negative in movie reviews. 
 The couse was lectured by Andrew Trask, a Phd student at the university of Oxford and author of the book _Grooking Deep Learning_, 
